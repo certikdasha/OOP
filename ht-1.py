@@ -60,4 +60,4 @@ class Iron(Element):
 
 
 tr = Iron()
-print(tr.agg_state(3480, 'F'))
+print(tr.agg_state(3480, 'K'))
